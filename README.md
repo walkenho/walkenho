@@ -22,26 +22,7 @@ Some of my articles include:
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-
 -->
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/walkenho/walkenho">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walkenho&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/walkenho/walkenho">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=walkenho&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jessica's GitHub Stats" />
-</a>
-
-<a href="https://github.com/walkenho/mp3-tagger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walkenho&repo=mp3-tagger&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/walkenho/tales-of-1001-data">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=walkenho&repo=tales-of-1001-data&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
 
 <!-- links to social media accounts -->
 
