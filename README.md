@@ -5,7 +5,7 @@ My name is Jessica. I hold a PhD in computational physics and work as a Data Sci
 I sneeze a lot and love horrible jokes. Here is one of my favourite coding related ones: "! False" (it's funny because it's true).
 
 ## 📫 Where to find me
-On the internet, you can find me on [LinkedIn][1]. IRL, you can find me co-organizing [London's PyData Meetup](https://www.meetup.com/pydata-london-meetup/), data-diving for [DataKindUK](https://datakind.org.uk/) or practicing my Judo moves. So if you meet me at any of these events, come and say hi. Extra credit if you tell me a joke! 😄
+On the internet, you can find me on [LinkedIn][1]. IRL, you can find me co-organizing [London's PyData Meetup](https://www.meetup.com/pydata-london-meetup/), data-diving for [DataKindUK](https://datakind.org.uk/) or practicing my Judo moves. So if you meet me at any of these events, come and say hi. Extra credit if you bring a joke! 😄
 
 ## &#x270d; Blog & Writing
 In my spare time I like to learn new technologies and play around with data. Every so often I will blog about my experience doing so - You can find my articles on [walkenho.github.io](walkenho.github.io) as well as on [Medium](https://medium.com/@walkenho).
